@@ -1,0 +1,10 @@
+# Ignorar archivos compilados de emu8086
+*.com
+*.exe
+*.bin
+*.obj
+*.lst
+*.map
+
+# Ignorar respaldos
+*.bak
